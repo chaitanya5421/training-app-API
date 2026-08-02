@@ -1,0 +1,5 @@
+What is api
+what is express
+what is headers - it contains additional information about the HTTP request/response.
+what is content-type - content-type tells the server what type of data is being sent.
+
