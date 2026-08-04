@@ -3,3 +3,9 @@ what is express
 what is headers - it contains additional information about the HTTP request/response.
 what is content-type - content-type tells the server what type of data is being sent.
 
+
+Task updated
+after add the input fields should be cleared.
+make a get call and render the data in the table.
+u should have a search field in that table, based on search the data should be shown.
+edit and delete buttons and modify the data.
